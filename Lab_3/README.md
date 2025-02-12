@@ -44,8 +44,5 @@ y = (a \cdot b) + c
 
 ## Notes
 - Ensure **file names and module names match**.
-- Add the **`timescale` directive** at the beginning of RTL and testbench files:
-  ```verilog
-  `timescale 1ns/10ps
-  ```
+
 
