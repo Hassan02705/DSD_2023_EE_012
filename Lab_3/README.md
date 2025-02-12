@@ -48,5 +48,4 @@ y = (a \cdot b) + c
   ```verilog
   `timescale 1ns/10ps
   ```
-- Collaboration is encouraged, but direct code copying will result in **zero marks**.
 
